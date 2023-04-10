@@ -44,19 +44,4 @@ app.listen(PORT, ()=>console.log(`App is running on port  ${PORT}`))
 
 
 
-
-/**
- * User model draft
- * 
- * ID
- * name
- * email
- * password
- * 
- * item
- * ID
- * name
- * userId
- * 
- * 
- */
+// i added all these cool features and you can't do anything about it even if it breaks the code
